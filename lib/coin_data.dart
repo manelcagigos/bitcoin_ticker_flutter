@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-const apiKey = 'E332381D-D3BA-4AF0-9654-8F6F861B6245';
+const apiKey = 'apikey';
 const coinApiBaseURL = 'https://rest.coinapi.io';
 
 const List<String> currenciesList = [
